@@ -1,0 +1,6 @@
+{
+  "name": "Resolução de Química: Soluções e Termoquímica",
+  "description": "Guia interativo com a resolução detalhada, passo a passo e calculadoras para os 15 exercícios de soluções, calorimetria e termoquímica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
